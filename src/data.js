@@ -110,12 +110,12 @@ export const skills = [
   {
     index: "02",
     title: "Backend",
-    items: ["PHP", "Laravel", "Node.js", "TypeScript", "Python", "Microsserviços"],
+    items: ["PHP", "Laravel", "Java", "Node.js", "TypeScript", "Python", "Microsserviços"],
   },
   {
     index: "03",
     title: "Database",
-    items: ["SQL relacional", "MySQL", "Oracle", "MongoDB", "Firebase", "Supabase"],
+    items: ["SQL relacional", "MySQL", "PostgreSQL", "Oracle", "MongoDB", "Firebase", "Supabase"],
   },
   {
     index: "04",
@@ -130,7 +130,7 @@ export const skills = [
   {
     index: "06",
     title: "IA",
-    items: ["APIs de LLM", "Orquestração de agentes", "Redução de custo", "Padrões de projeto", "Isolamento de código"],
+    items: ["APIs de LLM", "Orquestração de agentes", "Redução de custo", "Padrões de projeto", "Isolamento de código", "RAG"],
   },
   {
     index: "07",
@@ -355,7 +355,8 @@ export const experience = [
     place: "Betim, Minas Gerais",
     period: "set 2025 — atual",
     title: "CTO",
-    text: "Direção da operação e dos produtos digitais, da decisão de negócio à construção do que chega no ar.",
+    text: "Entrei como desenvolvedor full stack. Com o crescimento da empresa, passei a coordenar os projetos, numa equipe de cerca de dez profissionais. Atuei em dezenas de projetos, da estruturação inicial e do escopo ao MVP, ao desenvolvimento ágil, ao deploy, à configuração de servidores e às melhorias contínuas. Passei por mobile, web e desktop. Aqui aprendi o ciclo de vida de um sistema, da demanda à entrega, e a gestão de pessoas, o recrutamento e a condução de times em vários projetos e linguagens.",
+    cv: "Entrei como full stack e passei a coordenar cerca de dez profissionais. Do escopo e do MVP ao deploy e à melhoria contínua, em mobile, web e desktop, com gestão de pessoas e times em vários projetos.",
   },
   {
     company: "Heaven Sender",

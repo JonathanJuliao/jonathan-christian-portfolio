@@ -145,12 +145,12 @@ export default function Home() {
                   {"\n"}
                   <span className="c-dim">06</span>   now: <span className="c-str">"Índice Digital"</span>,
                   {"\n"}
-                  <span className="c-dim">07</span>   db: [<span className="c-str">"MySQL"</span>, <span className="c-str">"Oracle"</span>, <span className="c-str">"MongoDB"</span>,{"\n"}
-                  <span className="c-dim">08</span>     <span className="c-str">"Firebase"</span>, <span className="c-str">"Supabase"</span>],
+                  <span className="c-dim">07</span>   db: [<span className="c-str">"MySQL"</span>, <span className="c-str">"PostgreSQL"</span>, <span className="c-str">"Oracle"</span>,{"\n"}
+                  <span className="c-dim">08</span>     <span className="c-str">"MongoDB"</span>, <span className="c-str">"Firebase"</span>, <span className="c-str">"Supabase"</span>],
                   {"\n"}
                   <span className="c-dim">09</span>   base: <span className="c-str">"Betim, MG"</span>,
                   {"\n"}
-                  <span className="c-dim">10</span>   ship: <span className="c-str">"Docker · Git · CI/CD"</span>,
+                  <span className="c-dim">10</span>   ship: <span className="c-str">"Linux · Docker · Git · CI/CD"</span>,
                   {"\n"}
                   <span className="c-dim">11</span> {"}"};<span className="caret" />
                 </code>
@@ -222,7 +222,7 @@ export default function Home() {
               desenho APIs REST, arquitetura de dados, Docker, Git, CI/CD e integrações com LLMs.
             </p>
             <ul className="checks">
-              <li>CTO na Índice Digital desde setembro de 2025.</li>
+              <li>Na Índice Digital, entrei como full stack e passei a coordenar a equipe.</li>
               <li>Diretor de tecnologia na Heaven Sender, no CRM de vendas da operação.</li>
               <li>Na Distribuidora GAMA, saí de trainee e cheguei a Tech Lead.</li>
               <li>Bacharel em Ciência da Computação pela Estácio.</li>
