@@ -3,7 +3,7 @@ export const profile = {
   first: "Jonathan",
   last: "Christian",
   role: "Tech Lead e Full Stack Developer",
-  location: "Betim, Minas Gerais",
+  location: "Contagem, Minas Gerais",
   email: "jjonathanccc@gmail.com",
   linkedin: "https://www.linkedin.com/in/jonathan-christian-407475232",
   website: "",
@@ -352,7 +352,7 @@ export const featuredIds = ["solosys", "medneeds", "heaven-sender", "unites"];
 export const experience = [
   {
     company: "Índice Digital",
-    place: "Betim, Minas Gerais",
+    place: "Contagem, Minas Gerais",
     period: "set 2025 — atual",
     title: "CTO",
     text: "Entrei como desenvolvedor full stack. Com o crescimento da empresa, passei a coordenar os projetos, numa equipe de cerca de dez profissionais. Atuei em dezenas de projetos, da estruturação inicial e do escopo ao MVP, ao desenvolvimento ágil, ao deploy, à configuração de servidores e às melhorias contínuas. Passei por mobile, web e desktop. Aqui aprendi o ciclo de vida de um sistema, da demanda à entrega, e a gestão de pessoas, o recrutamento e a condução de times em vários projetos e linguagens.",
@@ -415,7 +415,7 @@ export const education = [
   {
     school: "Estácio",
     course: "Bacharelado em Ciência da Computação",
-    period: "fev 2022 — fev 2025",
+    period: "fev 2022 — jun 2026",
   },
   {
     school: "PRONATEC",

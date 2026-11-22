@@ -96,7 +96,7 @@ function ResumeDocument({ siteUrl }) {
               <>
                 <Text style={styles.dot}>·</Text>
                 <Link src={site} style={styles.contactLime}>
-                  {siteHost}
+                  {`Portfólio: ${siteHost}`}
                 </Link>
               </>
             ) : null}
@@ -105,9 +105,10 @@ function ResumeDocument({ siteUrl }) {
           <View style={styles.profileCard}>
             <SectionTitle index="01">Perfil</SectionTitle>
             <Text style={styles.body}>
-              CTO na Índice Digital e diretor de tecnologia na Heaven Sender. Há mais de cinco anos
-              entrego software que a operação usa, em PHP, Laravel, Node.js, React e React Native — da
-              API e da arquitetura até a prioridade do time. Bacharel em Ciência da Computação. 22 anos.
+              Eu sou Jonathan Christian, 22 anos. Ocupo cargo de gestão, como Tech Lead, com vivência em
+              diversos projetos e em várias linguagens. Há mais de cinco anos entrego software que a
+              operação usa, em PHP, Laravel, Node.js, React e React Native, da API e da arquitetura até
+              a prioridade do time.
             </Text>
           </View>
 
@@ -159,7 +160,7 @@ function ResumeDocument({ siteUrl }) {
           <View style={styles.footer}>
             {site ? (
               <Link src={site} style={styles.footerLink}>
-                Portfólio  ·  {siteHost}
+                {`Portfólio: ${siteHost}`}
               </Link>
             ) : (
               <Text style={styles.footerMeta}>{profile.availability}</Text>
@@ -179,7 +180,7 @@ function ResumeDocument({ siteUrl }) {
             </View>
             {site ? (
               <Link src={site} style={styles.sitePill}>
-                {siteHost}
+                {`Portfólio: ${siteHost}`}
               </Link>
             ) : null}
           </View>
@@ -213,7 +214,7 @@ function ResumeDocument({ siteUrl }) {
           <View style={styles.footer}>
             {site ? (
               <Link src={site} style={styles.footerLink}>
-                Formação e certificados  ·  {site}
+                {`Portfólio: ${siteHost}`}
               </Link>
             ) : (
               <Text style={styles.footerMeta}>{profile.availability}</Text>

@@ -148,7 +148,7 @@ export default function Home() {
                   <span className="c-dim">07</span>   db: [<span className="c-str">"MySQL"</span>, <span className="c-str">"PostgreSQL"</span>, <span className="c-str">"Oracle"</span>,{"\n"}
                   <span className="c-dim">08</span>     <span className="c-str">"MongoDB"</span>, <span className="c-str">"Firebase"</span>, <span className="c-str">"Supabase"</span>],
                   {"\n"}
-                  <span className="c-dim">09</span>   base: <span className="c-str">"Betim, MG"</span>,
+                  <span className="c-dim">09</span>   base: <span className="c-str">"Contagem, MG"</span>,
                   {"\n"}
                   <span className="c-dim">10</span>   ship: <span className="c-str">"Linux · Docker · Git · CI/CD"</span>,
                   {"\n"}
